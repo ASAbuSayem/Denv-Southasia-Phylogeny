@@ -28,7 +28,7 @@ Related to the M.Tech thesis on cross-border dengue early warning (Bangladesh an
 | 2 | `02_esm2_embeddings.ipynb` | Protein language model embeddings of the E protein |
 | 3 | `03_e_gene_phylogeny.ipynb` | E-gene extraction, alignment, tree building and tests |
 
-Dataset on Kaggle: https://www.kaggle.com/datasets/YOUR-KAGGLE-USERNAME/lineage-dengue-dataset
+Dataset on Kaggle: https://www.kaggle.com/datasets/sayemchowdhury23/lineage-dengue-dataset
 
 ## Author
 
