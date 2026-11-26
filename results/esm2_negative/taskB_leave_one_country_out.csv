@@ -1,0 +1,12 @@
+serotype,held_out,n_test,unseen_lineage_share_pct,accuracy
+DENV-1,India,327,16.6,0.881
+DENV-1,Sri Lanka,38,0.0,0.974
+DENV-2,Bangladesh,107,0.0,0.981
+DENV-2,India,428,2.7,0.841
+DENV-2,Sri Lanka,266,0.0,0.959
+DENV-2,Nepal,67,0.0,0.91
+DENV-2,Maldives,29,3.3,1.0
+DENV-3,Bangladesh,192,0.0,1.0
+DENV-3,India,289,17.2,0.931
+DENV-3,Sri Lanka,73,0.0,1.0
+DENV-3,Bhutan,44,0.0,1.0

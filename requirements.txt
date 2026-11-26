@@ -1,0 +1,8 @@
+biopython>=1.83
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+transformers

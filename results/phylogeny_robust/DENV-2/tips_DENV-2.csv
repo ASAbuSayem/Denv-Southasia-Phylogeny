@@ -1,0 +1,338 @@
+country,serotype,acc,length,year,geo,type,lineage,window
+Bangladesh,2,LC436650.1,1485,2017.0,Bangladesh,E-gene sized,2II_A.2.1,2016
+Bangladesh,2,LC436670.1,10671,2017.0,Bangladesh,near-complete genome,2II_A.2.1,2016
+Bangladesh,2,LC436618.1,1485,2017.0,Bangladesh,E-gene sized,2II_A.2.1,2016
+Bangladesh,2,LC436671.1,10671,2017.0,Bangladesh,near-complete genome,2II_A.2.1,2016
+Bangladesh,2,LC436619.1,1485,2017.0,Bangladesh,E-gene sized,2II_A.2.1,2016
+Bangladesh,2,PZ017585.1,1541,2024.0,Bangladesh,E-gene sized,2II_F.1.1,2022
+Bangladesh,2,PZ017580.1,1485,2024.0,Bangladesh,E-gene sized,2II_F.1.1,2022
+Bangladesh,2,PZ017579.1,1485,2024.0,Bangladesh,E-gene sized,2II_F.1.1,2022
+Bangladesh,2,PX701199.1,10655,2024.0,Bangladesh,near-complete genome,2II_F.1.1,2022
+Bangladesh,2,PZ017583.1,1591,2024.0,Bangladesh,E-gene sized,2II_F.1.1,2022
+Bangladesh,2,PZ017581.1,1485,2024.0,Bangladesh,E-gene sized,2II_F.1.1,2022
+Bangladesh,2,OZ484512.1,10512,2025.0,Bangladesh:Dhaka,near-complete genome,2II_F.1.1,2025
+Bangladesh,2,OZ484505.1,10512,2025.0,Bangladesh:Dhaka,near-complete genome,2II_F.1.1,2025
+Bangladesh,2,OZ484507.1,10512,2025.0,Bangladesh:Dhaka,near-complete genome,2II_F.1.1,2025
+Bangladesh,2,OZ484514.1,10512,2025.0,Bangladesh:Dhaka,near-complete genome,2II_F.1.1,2025
+Bangladesh,2,OZ484496.1,10512,2025.0,Bangladesh:Dhaka,near-complete genome,2II_F.1.1,2025
+Bangladesh,2,OZ484509.1,10512,2025.0,Bangladesh:Dhaka,near-complete genome,2II_F.1.1,2025
+Bangladesh,2,LC436657.1,1485,2017.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,LC436649.1,1485,2017.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,LC436624.1,1485,2017.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,LC436613.1,1485,2017.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,LC436673.1,10671,2017.0,Bangladesh,near-complete genome,2II_F.1.1.2,2016
+Bangladesh,2,LC436672.1,10671,2017.0,Bangladesh,near-complete genome,2II_F.1.1.2,2016
+Bangladesh,2,OQ826878.1,1485,2018.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,OQ826873.1,1485,2018.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,OQ826852.1,1485,2018.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,OQ826876.1,1485,2018.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,OQ826864.1,1485,2018.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,OQ826875.1,1485,2018.0,Bangladesh,E-gene sized,2II_F.1.1.2,2016
+Bangladesh,2,MN328061.1,10699,2019.0,Bangladesh,near-complete genome,2II_F.1.1.2,2019
+Bangladesh,2,PQ657766.1,10723,2023.0,Bangladesh: Chattogram,near-complete genome,2V_F,2022
+Bhutan,2,MK651228.1,1485,2016.0,Bhutan: Phuntsholing,E-gene sized,2II_A.2.1,2016
+Bhutan,2,MK651227.1,1485,2016.0,Bhutan: Phuntsholing,E-gene sized,2II_A.2.1,2016
+Bhutan,2,MK651230.1,1485,2016.0,Bhutan: Phuntsholing,E-gene sized,2II_A.2.1,2016
+Bhutan,2,MK651226.1,1485,2016.0,Bhutan: Phuntsholing,E-gene sized,2II_A.2.1,2016
+Bhutan,2,MK651229.1,1485,2016.0,Bhutan: Phuntsholing,E-gene sized,2II_A.2.1,2016
+Bhutan,2,OQ851882.1,10671,2022.0,Bhutan: Phuntsholing,near-complete genome,2II_F.1.1.5,2022
+Bhutan,2,OQ851878.1,10671,2022.0,Bhutan: Phuntsholing,near-complete genome,2II_F.1.1.5,2022
+Bhutan,2,OQ851879.1,10671,2022.0,Bhutan: Phuntsholing,near-complete genome,2II_F.1.1.5,2022
+Bhutan,2,OQ851883.1,10671,2022.0,Bhutan: Phuntsholing,near-complete genome,2II_F.1.1.5,2022
+Bhutan,2,OQ851875.1,10671,2022.0,Bhutan: Phuntsholing,near-complete genome,2II_F.1.1.5,2022
+Bhutan,2,OQ851881.1,10671,2022.0,Bhutan: Phuntsholing,near-complete genome,2II_F.1.1.5,2022
+India,2,PZ384036.1,10568,2023.0,India,near-complete genome,2I,2022
+India,2,PP757876.1,10568,2023.0,India,near-complete genome,2I,2022
+India,2,PQ198062.1,10703,2023.0,"India: NCR, Delhi",near-complete genome,2I,2022
+India,2,PP757877.1,10568,2023.0,India,near-complete genome,2I,2022
+India,2,PZ384037.1,10568,2023.0,India,near-complete genome,2I,2022
+India,2,PX363313.1,10565,2018.0,Peru,near-complete genome,2III_C,2016
+India,2,PX363315.1,10651,2018.0,Peru,near-complete genome,2III_C,2016
+India,2,PX363312.1,10651,2018.0,Peru,near-complete genome,2III_C,2016
+India,2,PX363314.1,10706,2018.0,Peru,near-complete genome,2III_C,2016
+India,2,PX363311.1,10575,2018.0,Peru,near-complete genome,2III_C,2016
+India,2,MH209594.1,1485,2016.0,India,E-gene sized,2II_A,2016
+India,2,MH209600.1,1485,2016.0,India,E-gene sized,2II_A,2016
+India,2,MH209596.1,1485,2016.0,India,E-gene sized,2II_A,2016
+India,2,MH209595.1,1485,2016.0,India,E-gene sized,2II_A,2016
+India,2,MG271950.1,1485,2016.0,India,E-gene sized,2II_A,2016
+India,2,MG721056.2,10631,2016.0,India,near-complete genome,2II_A,2016
+India,2,MW426175.1,1485,2017.0,"India: ANDHRA PRADESH, Thummakuppam",E-gene sized,2II_A,2016
+India,2,MW426187.1,1461,2017.0,"India: ANDHRA PRADESH, TIRUPATI",E-gene sized,2II_A,2016
+India,2,MW426169.1,1485,2017.0,"India: ANDHRA PRADESH, Arigilavaripalli",E-gene sized,2II_A,2016
+India,2,MW426179.1,1485,2017.0,"India: ANDHRA PRADESH, Palamaner",E-gene sized,2II_A,2016
+India,2,MW426188.1,1464,2017.0,"India: ANDHRA PRADESH, PUNGANUR",E-gene sized,2II_A,2016
+India,2,PP762250.1,1485,2020.0,India,E-gene sized,2II_A,2019
+India,2,PP762488.1,1485,2020.0,India,E-gene sized,2II_A,2019
+India,2,PP762245.1,1485,2020.0,India,E-gene sized,2II_A,2019
+India,2,OM681318.1,10722,2021.0,India,near-complete genome,2II_A,2019
+India,2,OR544189.1,1485,2021.0,India,E-gene sized,2II_A,2019
+India,2,OR544184.1,1485,2021.0,India,E-gene sized,2II_A,2019
+India,2,OM648092.1,10697,2021.0,India,near-complete genome,2II_A,2019
+India,2,OR544180.1,1485,2021.0,India,E-gene sized,2II_A,2019
+India,2,OM744110.1,10708,2021.0,India,near-complete genome,2II_A,2019
+India,2,PP762246.1,1485,2022.0,India,E-gene sized,2II_A,2022
+India,2,MH209613.1,1485,2015.0,India,E-gene sized,2II_A.1.1,2013
+India,2,MH209614.1,1485,2015.0,India,E-gene sized,2II_A.1.1,2013
+India,2,OP310808.1,10598,2019.0,India,near-complete genome,2II_A.1.1,2019
+India,2,ON123652.1,10256,2020.0,India,near-complete genome,2II_A.1.1,2019
+India,2,OP809581.1,10619,2021.0,India,near-complete genome,2II_A.1.1,2019
+India,2,OM698821.1,10719,2021.0,India,near-complete genome,2II_A.1.1,2019
+India,2,OM639991.1,10721,2021.0,India,near-complete genome,2II_A.1.1,2019
+India,2,OM639990.1,10708,2021.0,India,near-complete genome,2II_A.1.1,2019
+India,2,MH209603.1,1485,2015.0,India,E-gene sized,2II_A.1.1.1,2013
+India,2,MH209612.1,1485,2015.0,India,E-gene sized,2II_A.1.1.1,2013
+India,2,MH209607.1,1485,2015.0,India,E-gene sized,2II_A.1.1.1,2013
+India,2,MH209615.1,1485,2015.0,India,E-gene sized,2II_A.1.1.1,2013
+India,2,MH209611.1,1485,2015.0,India,E-gene sized,2II_A.1.1.1,2013
+India,2,PZ454000.1,10176,2015.0,India,near-complete genome,2II_A.1.1.1,2013
+India,2,MG721055.1,10726,2016.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MK858111.1,10723,2016.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MK858105.2,10489,2016.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MG721057.2,10523,2016.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MK858103.1,10723,2016.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MK858098.2,10513,2016.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MK858115.2,10503,2017.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MK858114.2,10574,2017.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MN244918.1,1484,2017.0,India: Tirupur,E-gene sized,2II_A.1.1.1,2016
+India,2,MH594924.1,1484,2017.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,MK858112.1,10723,2017.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MH594921.1,1484,2017.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,MZ277475.1,1484,2018.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,ON799267.1,10511,2018.0,India,near-complete genome,2II_A.1.1.1,2016
+India,2,MZ277516.1,1484,2018.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,MZ277508.1,1484,2018.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,MZ277470.1,1484,2018.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,MZ277502.1,1484,2018.0,India,E-gene sized,2II_A.1.1.1,2016
+India,2,MZ277506.1,1484,2019.0,India,E-gene sized,2II_A.1.1.1,2019
+India,2,OP310805.1,10708,2019.0,India,near-complete genome,2II_A.1.1.1,2019
+India,2,MZ277505.1,1484,2019.0,India,E-gene sized,2II_A.1.1.1,2019
+India,2,ON123651.1,10723,2020.0,India,near-complete genome,2II_A.1.1.1,2019
+India,2,OR544163.1,1485,2020.0,India,E-gene sized,2II_A.1.1.1,2019
+India,2,OM639985.1,10712,2021.0,India,near-complete genome,2II_A.1.1.1,2019
+India,2,OM700181.1,10690,2021.0,India,near-complete genome,2II_A.1.1.1,2019
+India,2,ON109598.1,10511,2021.0,India,near-complete genome,2II_A.1.1.1,2019
+India,2,PP911474.1,1485,2022.0,India,E-gene sized,2II_A.1.1.1,2022
+India,2,OQ733363.1,10710,2022.0,India,near-complete genome,2II_A.1.1.1,2022
+India,2,OQ733364.1,10700,2022.0,India,near-complete genome,2II_A.1.1.1,2022
+India,2,OQ733365.1,10708,2022.0,India,near-complete genome,2II_A.1.1.1,2022
+India,2,OQ339137.1,10706,2022.0,India,near-complete genome,2II_A.1.1.1,2022
+India,2,OQ547234.1,10704,2022.0,India,near-complete genome,2II_A.1.1.1,2022
+India,2,MH891768.1,10716,2016.0,"India: Sonapur, Assam",near-complete genome,2II_A.1.1.2,2016
+India,2,MZ277473.1,1484,2018.0,India,E-gene sized,2II_A.1.1.2,2016
+India,2,MH209619.1,1485,2015.0,India,E-gene sized,2II_A.2.1,2013
+India,2,KU509306.1,1485,2015.0,India,E-gene sized,2II_A.2.1,2013
+India,2,MH209616.1,1485,2015.0,India,E-gene sized,2II_A.2.1,2013
+India,2,MH209606.1,1485,2015.0,India,E-gene sized,2II_A.2.1,2013
+India,2,MH209620.1,1485,2015.0,India,E-gene sized,2II_A.2.1,2013
+India,2,MH209602.1,1485,2015.0,India,E-gene sized,2II_A.2.1,2013
+India,2,MG271949.1,1485,2016.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MK858100.2,10647,2016.0,India,near-complete genome,2II_A.2.1,2016
+India,2,MG271945.1,1485,2016.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MG271944.1,1485,2016.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MG271946.1,1411,2016.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MK858109.2,10709,2016.0,India,near-complete genome,2II_A.2.1,2016
+India,2,OQ821480.1,10512,2017.0,India,near-complete genome,2II_A.2.1,2016
+India,2,MK858116.2,10588,2017.0,India,near-complete genome,2II_A.2.1,2016
+India,2,MK858113.1,10657,2017.0,India,near-complete genome,2II_A.2.1,2016
+India,2,MZ277523.1,1484,2018.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MZ277465.1,1484,2018.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MZ277519.1,1484,2018.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MZ277472.1,1484,2018.0,India,E-gene sized,2II_A.2.1,2016
+India,2,MH891770.1,10446,2018.0,"India: Shimoga, Karnataka",near-complete genome,2II_A.2.1,2016
+India,2,MZ277468.1,1484,2018.0,India,E-gene sized,2II_A.2.1,2016
+India,2,OP310807.1,10556,2019.0,India,near-complete genome,2II_A.2.1,2019
+India,2,OR544166.1,1485,2020.0,India,E-gene sized,2II_A.2.1,2019
+India,2,OR544160.1,1485,2020.0,India,E-gene sized,2II_A.2.1,2019
+India,2,OR544159.1,1485,2020.0,India,E-gene sized,2II_A.2.1,2019
+India,2,ON123649.1,10598,2020.0,India,near-complete genome,2II_A.2.1,2019
+India,2,OR544162.1,1485,2020.0,India,E-gene sized,2II_A.2.1,2019
+India,2,OR544161.1,1485,2020.0,India,E-gene sized,2II_A.2.1,2019
+India,2,OM639987.1,10711,2021.0,India,near-complete genome,2II_A.2.1,2019
+India,2,PP762254.1,1485,2021.0,India,E-gene sized,2II_A.2.1,2019
+India,2,PP762253.1,1485,2021.0,India,E-gene sized,2II_A.2.1,2019
+India,2,OR544172.1,1485,2021.0,India,E-gene sized,2II_A.2.1,2019
+India,2,OM639988.1,10710,2021.0,India,near-complete genome,2II_A.2.1,2019
+India,2,PP762251.1,1485,2021.0,India,E-gene sized,2II_A.2.1,2019
+India,2,PP911465.1,1485,2022.0,India,E-gene sized,2II_A.2.1,2022
+India,2,PP911475.1,1485,2022.0,India,E-gene sized,2II_A.2.1,2022
+India,2,PP911467.1,1485,2022.0,India,E-gene sized,2II_A.2.1,2022
+India,2,OR544199.1,1485,2022.0,India,E-gene sized,2II_A.2.1,2022
+India,2,PP911470.1,1485,2022.0,India,E-gene sized,2II_A.2.1,2022
+India,2,PP911472.1,1485,2022.0,India,E-gene sized,2II_A.2.1,2022
+India,2,PQ143959.1,1485,2023.0,India: Punjab,E-gene sized,2II_A.2.1,2022
+India,2,MZ277522.1,1484,2018.0,India,E-gene sized,2II_F.1,2016
+India,2,KY495802.1,1485,2016.0,India,E-gene sized,2II_F.1.1,2016
+India,2,MZ277517.1,1484,2018.0,India,E-gene sized,2II_F.1.1,2016
+India,2,MZ277495.1,1484,2018.0,India,E-gene sized,2II_F.1.1,2016
+India,2,MZ277501.1,1484,2018.0,India,E-gene sized,2II_F.1.1,2016
+India,2,MZ277520.1,1484,2018.0,India,E-gene sized,2II_F.1.1,2016
+India,2,MZ277490.1,1484,2018.0,India,E-gene sized,2II_F.1.1,2016
+India,2,MZ277498.1,1484,2018.0,India,E-gene sized,2II_F.1.1,2016
+India,2,OR544158.1,1485,2019.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544157.1,1485,2019.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR492473.1,10685,2019.0,India,near-complete genome,2II_F.1.1,2019
+India,2,OR544156.1,1485,2019.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544169.1,1485,2020.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544168.1,1485,2020.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544165.1,1485,2020.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544167.1,1485,2020.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OM730078.1,10692,2021.0,India,near-complete genome,2II_F.1.1,2019
+India,2,OR544186.1,1485,2021.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OM639982.1,10723,2021.0,India,near-complete genome,2II_F.1.1,2019
+India,2,OM700180.1,10685,2021.0,India,near-complete genome,2II_F.1.1,2019
+India,2,OR544190.1,1485,2021.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544185.1,1485,2021.0,India,E-gene sized,2II_F.1.1,2019
+India,2,OR544205.1,1485,2022.0,India,E-gene sized,2II_F.1.1,2022
+India,2,PZ384034.1,10568,2022.0,India,near-complete genome,2II_F.1.1,2022
+India,2,PP757872.1,10665,2022.0,India,near-complete genome,2II_F.1.1,2022
+India,2,OR544193.1,1485,2022.0,India,E-gene sized,2II_F.1.1,2022
+India,2,PP789676.1,1485,2022.0,India,E-gene sized,2II_F.1.1,2022
+India,2,OR544192.1,1485,2022.0,India,E-gene sized,2II_F.1.1,2022
+India,2,PQ143968.1,1485,2023.0,India: Chandigarh,E-gene sized,2II_F.1.1,2022
+India,2,PQ143958.1,1485,2023.0,India: Punjab,E-gene sized,2II_F.1.1,2022
+India,2,PQ143961.1,1485,2023.0,India: Punjab,E-gene sized,2II_F.1.1,2022
+India,2,PQ143962.1,1485,2023.0,India: Punjab,E-gene sized,2II_F.1.1,2022
+India,2,PZ384033.1,10568,2023.0,India,near-complete genome,2II_F.1.1,2022
+India,2,PP757879.1,10568,2023.0,India,near-complete genome,2II_F.1.1,2022
+India,2,QB138977.1,10711,2024.0,India,near-complete genome,2II_F.1.1,2022
+India,2,PV554928.1,10620,2024.0,India,near-complete genome,2II_F.1.1,2022
+India,2,OR771147.1,10512,2023.0,USA: FL,near-complete genome,2II_F.1.1.5,2022
+India,2,QB246379.1,10681,2024.0,India: Calcutta,near-complete genome,2II_F.1.1.5,2022
+India,2,PZ603444.1,10598,2025.0,India,near-complete genome,2II_F.1.1.5,2025
+India,2,PP789674.1,1485,2022.0,India,E-gene sized,2II_F.1.1.6,2022
+India,2,OZ432330.1,10723,2024.0,India:New Delhi,near-complete genome,2II_F.1.1.6,2022
+India,2,OZ432331.1,10723,2024.0,India:New Delhi,near-complete genome,2II_F.1.1.6,2022
+India,2,OZ432335.1,10723,2024.0,India:New Delhi,near-complete genome,2II_F.1.1.6,2022
+India,2,OZ432339.1,10723,2024.0,India:New Delhi,near-complete genome,2II_F.1.1.6,2022
+India,2,MN244922.1,1484,2017.0,India: Coimbatore,E-gene sized,2II_F.2.1,2016
+India,2,MN244923.1,1484,2017.0,India: Coimbatore,E-gene sized,2II_F.2.1,2016
+India,2,MN244925.1,1484,2017.0,India: Tirupur,E-gene sized,2II_F.2.1,2016
+India,2,MN244924.1,1484,2017.0,India: Tirupur,E-gene sized,2II_F.2.1,2016
+India,2,OP808352.1,1485,2022.0,India,E-gene sized,2II_F.2.1,2022
+India,2,OR544214.1,1485,2022.0,India,E-gene sized,2II_F.2.1,2022
+India,2,OP808349.1,1485,2022.0,India,E-gene sized,2II_F.2.1,2022
+India,2,OP808344.1,1485,2022.0,India,E-gene sized,2II_F.2.1,2022
+India,2,OP808353.1,1485,2022.0,India,E-gene sized,2II_F.2.1,2022
+India,2,OR544215.1,1485,2022.0,India,E-gene sized,2II_F.2.1,2022
+India,2,PQ143965.1,1485,2023.0,India: Punjab,E-gene sized,2II_F.2.1,2022
+India,2,PQ143966.1,1485,2023.0,India: Chandigarh,E-gene sized,2II_F.2.1,2022
+India,2,MG885749.1,1362,2017.0,India,E-gene sized,2V_A.2,2016
+India,2,MW426158.1,1407,2017.0,"India: ANDHRA PRADESH, TIRUPATI",E-gene sized,2V_F,2016
+India,2,MW426152.1,1485,2017.0,"India: ANDHRA PRADESH, RAYACHOTI",E-gene sized,2V_F,2016
+India,2,PV554916.1,10488,2024.0,India,near-complete genome,2V_F,2022
+India,2,PV554932.1,10610,2024.0,India,near-complete genome,2V_F,2022
+India,2,PV554926.1,10624,2024.0,India,near-complete genome,2V_F,2022
+India,2,PV554918.1,10512,2024.0,India,near-complete genome,2V_F,2022
+India,2,PV554920.1,10488,2024.0,India,near-complete genome,2V_F,2022
+India,2,PV554917.1,10488,2024.0,India,near-complete genome,2V_F,2022
+India,2,OP809583.1,10699,2019.0,India,near-complete genome,unassigned,2019
+Maldives,2,MG895104.1,1485,2015.0,Taiwan,E-gene sized,2II_F.1.1,2013
+Maldives,2,MG895091.1,1485,2015.0,Taiwan,E-gene sized,2II_F.1.1,2013
+Maldives,2,MN018365.1,10724,2015.0,China: Guangdong Province,near-complete genome,2II_F.1.1,2013
+Maldives,2,MG737964.1,1485,2015.0,China,E-gene sized,2II_F.1.1,2013
+Maldives,2,MG737983.1,1485,2015.0,China,E-gene sized,2II_F.1.1,2013
+Maldives,2,ON911799.1,1485,2016.0,China,E-gene sized,2II_F.1.1,2016
+Maldives,2,ON911798.1,1485,2016.0,China,E-gene sized,2II_F.1.1,2016
+Maldives,2,MN982890.1,1485,2016.0,Maldives,E-gene sized,2II_F.1.1,2016
+Maldives,2,MG895172.1,1485,2016.0,Taiwan,E-gene sized,2II_F.1.1,2016
+Maldives,2,MN018342.1,10724,2017.0,China: Guangdong Province,near-complete genome,2II_F.1.1,2016
+Maldives,2,MG840612.1,1485,2017.0,China,E-gene sized,2II_F.1.1,2016
+Maldives,2,MH827551.1,10724,2017.0,China,near-complete genome,2II_F.1.1,2016
+Maldives,2,MH827548.1,10724,2017.0,China,near-complete genome,2II_F.1.1,2016
+Maldives,2,MG840630.1,1485,2017.0,China,E-gene sized,2II_F.1.1,2016
+Maldives,2,MG840617.1,1485,2017.0,China,E-gene sized,2II_F.1.1,2016
+Maldives,2,PP834448.1,10629,2019.0,Maldives,near-complete genome,2II_F.1.1,2019
+Maldives,2,OP895917.1,10611,2021.0,Maldives,near-complete genome,2II_F.1.1,2019
+Maldives,2,PP204093.1,10609,2023.0,"United Arab Emirates: Abu Dhabi, Duba, Maldives",near-complete genome,2II_F.1.1,2022
+Maldives,2,PX701189.1,10458,2024.0,Maldives,near-complete genome,2II_F.1.1,2022
+Maldives,2,PX701192.1,10578,2024.0,Maldives,near-complete genome,2II_F.1.1,2022
+Maldives,2,QB246908.1,10723,2024.0,Maldives,near-complete genome,2II_F.1.1,2022
+Maldives,2,PX701196.1,10578,2024.0,Maldives,near-complete genome,2II_F.1.1,2022
+Maldives,2,PX701193.1,10458,2024.0,Maldives,near-complete genome,2II_F.1.1,2022
+Maldives,2,PZ603442.1,10562,2026.0,Maldives,near-complete genome,2II_F.1.1,2025
+Maldives,2,QB208681.1,10723,2026.0,Maldives: Male,near-complete genome,2II_F.1.1,2025
+Maldives,2,QB208879.1,10681,2026.0,Maldives: Male,near-complete genome,2II_F.1.1,2025
+Maldives,2,PP434965.1,1485,2019.0,Maldives,E-gene sized,2V_A.1.1,2019
+Nepal,2,MW730836.1,10580,2017.0,Nepal,near-complete genome,2II_A.2.1,2016
+Nepal,2,MW730837.1,10584,2017.0,Nepal,near-complete genome,2II_A.2.1,2016
+Nepal,2,MW730834.1,10580,2017.0,Nepal,near-complete genome,2II_A.2.1,2016
+Nepal,2,MW730838.1,10584,2017.0,Nepal,near-complete genome,2II_A.2.1,2016
+Nepal,2,MW730835.1,10584,2017.0,Nepal,near-complete genome,2II_A.2.1,2016
+Nepal,2,MW730833.1,10583,2017.0,Nepal,near-complete genome,2II_F,2016
+Nepal,2,MW730813.1,10582,2017.0,Nepal,near-complete genome,2II_F.1.1,2016
+Nepal,2,MW730811.1,10584,2017.0,Nepal,near-complete genome,2II_F.1.1,2016
+Nepal,2,MW730812.1,10584,2017.0,Nepal,near-complete genome,2II_F.1.1,2016
+Nepal,2,OR167119.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1,2022
+Nepal,2,OR167118.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1,2022
+Nepal,2,OR178937.1,1485,2022.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,OR167120.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1,2022
+Nepal,2,PP474273.1,1485,2023.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,PP474276.1,1485,2023.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,PP474264.1,1485,2023.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,PP474280.1,1485,2023.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,PP474274.1,1485,2023.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,PP474277.1,1485,2023.0,Nepal,E-gene sized,2II_F.1.1,2022
+Nepal,2,OR821725.1,10723,2022.0,Nepal,near-complete genome,2II_F.1.1.3,2022
+Nepal,2,OR167121.1,10429,2022.0,Nepal,near-complete genome,2II_F.1.1.3,2022
+Nepal,2,OR167116.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1.3,2022
+Nepal,2,OR167122.1,10429,2022.0,Nepal,near-complete genome,2II_F.1.1.3,2022
+Nepal,2,OR821724.1,10723,2022.0,Nepal,near-complete genome,2II_F.1.1.3,2022
+Nepal,2,OR167123.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1.5,2022
+Nepal,2,OR167115.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1.5,2022
+Nepal,2,OR167117.1,10432,2022.0,Nepal,near-complete genome,2II_F.1.1.5,2022
+Nepal,2,MW730821.1,10584,2017.0,Nepal,near-complete genome,2II_F.2.1,2016
+Nepal,2,MW730824.1,10584,2017.0,Nepal,near-complete genome,2II_F.2.1,2016
+Nepal,2,MW730816.1,10580,2017.0,Nepal,near-complete genome,2II_F.2.1,2016
+Nepal,2,MW730827.1,10584,2017.0,Nepal,near-complete genome,2II_F.2.1,2016
+Nepal,2,MW730822.1,10584,2017.0,Nepal,near-complete genome,2II_F.2.1,2016
+Nepal,2,MW730825.1,10584,2017.0,Nepal,near-complete genome,2II_F.2.1,2016
+Nepal,2,PP434978.1,1485,2019.0,Nepal,E-gene sized,2V_A.1.1,2019
+Pakistan,2,MG840638.1,1485,2017.0,China,E-gene sized,2II_A.1.2,2016
+Pakistan,2,PP594161.1,1485,2023.0,Pakistan,E-gene sized,2II_A.1.2,2022
+Pakistan,2,PQ069807.1,10686,2021.0,Pakistan: Karachi,near-complete genome,2II_F.1.1,2019
+Pakistan,2,PQ069808.1,10452,2021.0,Pakistan: Karachi,near-complete genome,2II_F.1.1,2019
+Pakistan,2,PQ069809.1,10706,2021.0,Pakistan: Karachi,near-complete genome,2II_F.1.1,2019
+Pakistan,2,OP811977.1,10497,2022.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,OP811983.1,10497,2022.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,OP811979.1,10497,2022.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,OP811978.1,10497,2022.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,OP811984.1,10497,2022.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,OP898559.1,10497,2022.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,OR936752.1,10642,2023.0,Pakistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,PQ533828.1,10632,2024.0,Pakistan: Balochistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,PQ533827.1,10625,2024.0,Pakistan: Balochistan,near-complete genome,2II_F.1.1,2022
+Pakistan,2,PQ533825.1,10497,2024.0,Pakistan: Rawalpindi,near-complete genome,2II_F.1.1,2022
+Pakistan,2,PQ533826.1,10680,2024.0,Pakistan: Balochistan,near-complete genome,2II_F.1.1,2022
+Sri Lanka,2,PQ357518.1,10647,2019.0,Sri Lanka,near-complete genome,2II_A.1.1.1,2019
+Sri Lanka,2,PV752114.1,10723,2016.0,Sri Lanka: Colombo,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,KY495803.1,1485,2016.0,Sri Lanka,E-gene sized,2II_F.1.1,2016
+Sri Lanka,2,PQ667804.1,10723,2016.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,MN083234.1,1485,2017.0,Sri Lanka,E-gene sized,2II_F.1.1,2016
+Sri Lanka,2,PV752103.1,10723,2017.0,Sri Lanka: Colombo,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,MN083223.1,1485,2017.0,Sri Lanka,E-gene sized,2II_F.1.1,2016
+Sri Lanka,2,MT006155.1,10128,2017.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,PV752096.1,10723,2017.0,Sri Lanka: Colombo,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,PV752095.1,10723,2017.0,Sri Lanka: Colombo,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,OR393930.1,10176,2018.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,OR393887.1,10176,2018.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,OR393933.1,10176,2018.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,MT006172.1,10125,2018.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,OR393906.1,10176,2018.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,MT006186.1,10128,2018.0,Sri Lanka,near-complete genome,2II_F.1.1,2016
+Sri Lanka,2,OR393998.1,10176,2019.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR394046.1,10176,2019.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR393985.1,10176,2019.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR394035.1,10176,2019.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR393984.1,10176,2019.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR394022.1,10176,2019.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR394053.1,10176,2020.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR394049.1,10176,2020.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,OR394050.1,10176,2020.0,Sri Lanka,near-complete genome,2II_F.1.1,2019
+Sri Lanka,2,PX447464.2,10512,2024.0,Sri Lanka,near-complete genome,2II_F.1.1,2022
+Sri Lanka,2,PX447463.2,10512,2025.0,Sri Lanka,near-complete genome,2II_F.1.1,2025
+Sri Lanka,2,PX447456.2,10512,2025.0,Sri Lanka,near-complete genome,2II_F.1.1,2025
+Sri Lanka,2,PX447459.2,10512,2025.0,Sri Lanka,near-complete genome,2II_F.1.1,2025
+Sri Lanka,2,PX447461.2,10512,2025.0,Sri Lanka,near-complete genome,2II_F.1.1,2025
+Sri Lanka,2,PX447466.2,10512,2025.0,Sri Lanka,near-complete genome,2II_F.1.1,2025
+Sri Lanka,2,PX447462.2,10512,2025.0,Sri Lanka,near-complete genome,2II_F.1.1,2025

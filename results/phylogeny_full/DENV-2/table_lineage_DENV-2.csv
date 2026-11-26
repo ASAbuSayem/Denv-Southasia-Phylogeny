@@ -1,0 +1,14 @@
+lineage,n,mean_within_dist,countries
+2I,5,0.0213,India
+2III_C,5,0.0029,India
+2II_A,23,0.0363,India
+2II_A.1.1,8,0.0146,India
+2II_A.1.1.1,39,0.011,"India, Sri Lanka"
+2II_A.2.1,56,0.0151,"Bangladesh, Bhutan, India, Nepal"
+2II_F.1.1,131,0.0135,"Bangladesh, India, Maldives, Nepal, Pakistan, Sri Lanka"
+2II_F.1.1.2,13,0.0044,Bangladesh
+2II_F.1.1.3,5,0.0015,Nepal
+2II_F.1.1.5,12,0.0025,"Bhutan, India, Nepal"
+2II_F.1.1.6,5,0.0054,India
+2II_F.2.1,18,0.0049,"India, Nepal"
+2V_F,9,0.0526,"Bangladesh, India"

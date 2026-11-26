@@ -1,0 +1,7 @@
+country,n,within_mean,null_mean,p_value
+Bangladesh,47,0.0348,0.0646,0.002
+Bhutan,6,0.0002,0.0638,0.002
+India,111,0.0302,0.0643,0.002
+Maldives,8,0.0066,0.0641,0.002
+Nepal,12,0.0029,0.0641,0.002
+Sri Lanka,31,0.0682,0.0645,0.6946

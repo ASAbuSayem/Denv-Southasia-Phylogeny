@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Dengue E-gene phylogeny and lineage connectivity across South Asia"
+type: software
+authors:
+  - family-names: "Sayem"
+    given-names: "Md. Abu"
+license: MIT
+date-released: "2026-11-26"

@@ -1,0 +1,3 @@
+serotype,countries,pairs,spearman_rho,p
+DENV-2,5,10,-0.152,0.6761
+DENV-3,4,6,0.551,0.2574

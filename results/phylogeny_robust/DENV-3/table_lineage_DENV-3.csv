@@ -1,0 +1,8 @@
+lineage,n,mean_within_dist,countries
+3III,7,0.0124,India
+3III_A,11,0.0116,"Bangladesh, India"
+3III_B,11,0.0285,India
+3III_B.3,70,0.0157,"Bhutan, India, Maldives, Sri Lanka"
+3III_B.3.1,47,0.01,"India, Maldives, Nepal"
+3I_A.1.1,17,0.0024,Sri Lanka
+3I_A.2,40,0.0054,Bangladesh
